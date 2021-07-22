@@ -1,11 +1,11 @@
 <h1 align="center">Cristhian Rave</h1>
 <h3 align="center">Programador Jr. Python</h3>
 
-- 🌱 Actualmente estoy aprendiendo ** Desarrollo de aplicaciones web **
+- 🌱 Actualmente estoy cursando ** Grado superior en Desarrollo de aplicaciones web en ILERNA **
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/cristhianrave?tab=projects](https://github.com/cristhianrave?tab=projects)
 
-- 💬 Pregúntame acerca de ** Grado superior en ILERNA **
+
 
 - 📫 Cómo comunicarse conmigo **cristhian233027@gmail.com**
 
