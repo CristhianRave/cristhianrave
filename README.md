@@ -25,6 +25,5 @@
 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhianrave&show_icons=true&locale=en&layout=compact" alt="cristhianrave" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristhianrave&show_icons=true&locale=en" alt="cristhianrave" /></p>
