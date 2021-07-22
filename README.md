@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cristhian Rave</h1>
-<h3 align="center">Programador Jr.</h3>
+<h1 align="center">Cristhian Rave</h1>
+<h3 align="center">Programador Jr. Python</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
