@@ -1,16 +1,14 @@
 <h1 align="center">Cristhian Rave</h1>
-<h3 align="center">Programador Jr. Python</h3>
+<h3 align="center">Programador Jr. Python</h3><br>
 
 - 🌱 Actualmente estoy cursando ** Grado superior en Desarrollo de aplicaciones web en ILERNA **
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/cristhianrave?tab=projects](https://github.com/cristhianrave?tab=projects)
-
-- 📫 Cómo comunicarse conmigo **cristhian233027@gmail.com**
+- 👨‍💻 Mis proyectos : [https://github.com/cristhianrave?tab=projects](https://github.com/cristhianrave?tab=projects)<br>
 
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-
+- 📫  **cristhian233027@gmail.com**
 <a href="https://linkedin.com/in/cristhian rave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristhian rave" height="30" width="40" /></a>
 </p>
 
