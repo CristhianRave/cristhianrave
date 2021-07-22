@@ -9,8 +9,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/cristhian rave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristhian rave" height="30" width="40" /></a>
-<a href="https://github/cristhianrave" target="blank"><img align="center" src="
-  /rss.svg" alt="cristhianrave" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
