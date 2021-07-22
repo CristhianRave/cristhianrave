@@ -1,5 +1,5 @@
 <h1 align="center">Cristhian Rave</h1>
-<h3 align="center">Programador Jr. Python</h3><br>
+<h3 align="center">Programador Junior </h3><br>
 
 - 🌱 Actualmente estoy cursando ** Grado superior en Desarrollo de aplicaciones web en ILERNA **
 
